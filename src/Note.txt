@@ -1,0 +1,4 @@
+1. To check Account after added:
++ Hit 6 to exit
++ Then hit 1 to enter again
++ Then new acc is available to check
